@@ -1,0 +1,6 @@
+Para agregar Spring Security a un proyecto, necesitas incluir la dependencia spring-bootstarter-security.
+Esta dependencia proporciona las funcionalidades básicas para la autenticación y autorización en aplicaciones Spring Boot.
+
+Código:
+<dependency> <groupId>org.springframework.boot</groupId>
+<artifactId>spring-boot-starter-security</artifactId> </dependency>
